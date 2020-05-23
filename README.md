@@ -10,9 +10,8 @@ Play with Larry the Lizard or any of his fun pals and let one of them be your ne
 
 Below is actual play from the application:
 
-Hi, welcome to Kyle's adoption shelter.  
-We have an amazing variety of wonderful pets!  
-This is our list of pets today:
+Hi, welcome to Kyle's adoption shelter.  We have an amazing variety of wonderful pets!  This is our list of pets today:
+
 We have: Larry the Lizard
 
 Their description is: Sweet, Slippery, Smooth
