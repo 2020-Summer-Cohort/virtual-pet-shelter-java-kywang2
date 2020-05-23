@@ -10,45 +10,82 @@ Play with Larry the Lizard or any of his fun pals and let one of them be your ne
 
 Below is actual play from the application:
 
-Hi, welcome to Kyle's adoption shelter.  We have an amazing variety of wonderful pets!  This is our list of pets today:
+Hi, welcome to Kyle's adoption shelter.  
+We have an amazing variety of wonderful pets!  
+This is our list of pets today:
 We have: Larry the Lizard
+
 Their description is: Sweet, Slippery, Smooth
+
 Their hunger level is: 4
+
 Their thirst level is: 3
+
 Their play level is: 9
+
 Their sleep level is: 5
+
 We have: Harry the Hamster
+
 Their description is: Fluffy, Furry, Flamboyant
+
 Their hunger level is: 7
+
 Their thirst level is: 4
+
 Their play level is: 2
+
 Their sleep level is: 4
+
 We have: Kenny the Chameleon
+
 Their description is: Cool, Calm, Camouflaged
+
 Their hunger level is: 8
+
 Their thirst level is: 7
+
 Their play level is: 8
+
 Their sleep level is: 9
+
 We have: Peter the Parrot
+
 Their description is: Talkative, Territorial, Tame
+
 Their hunger level is: 1
+
 Their thirst level is: 1
+
 Their play level is: 3
+
 Their sleep level is: 2
+
 What do you want to do?
+
 1. Feed the Pets.
 2. Give the Pets Water.
 3. Play With a Pet.
 4. Let Pets Sleep.
 5. Adopt a Pet.
 6. Admit a Pet.
+
 1
+
 You chose to feed the pets. Which pet would you like to feed?
+
 We have: Larry the Lizard
+
 We have: Harry the Hamster
+
 We have: Kenny the Chameleon
+
 We have: Peter the Parrot
+
 Enter the name of the pet or enter all to feed all pets: 
+
 Larry the Lizard
+
 You chose to feed: Larry the Lizard
+
 Their description is: Sweet, Slippery, Smooth
